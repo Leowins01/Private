@@ -39,5 +39,6 @@ button {
     color: white;
     height: 30px;
     cursor: pointer;
+    margin-top 20px;
     margin-bottom: 50px;
 }
